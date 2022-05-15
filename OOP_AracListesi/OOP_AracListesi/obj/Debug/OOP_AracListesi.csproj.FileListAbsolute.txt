@@ -1,0 +1,11 @@
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\OOP\OOP_AracListesi\OOP_AracListesi\bin\Debug\OOP_AracListesi.exe.config
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\OOP\OOP_AracListesi\OOP_AracListesi\bin\Debug\OOP_AracListesi.exe
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\OOP\OOP_AracListesi\OOP_AracListesi\bin\Debug\OOP_AracListesi.pdb
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\OOP\OOP_AracListesi\OOP_AracListesi\obj\Debug\OOP_AracListesi.csproj.AssemblyReference.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\OOP\OOP_AracListesi\OOP_AracListesi\obj\Debug\OOP_AracListesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\OOP\OOP_AracListesi\OOP_AracListesi\obj\Debug\OOP_AracListesi.Form1.resources
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\OOP\OOP_AracListesi\OOP_AracListesi\obj\Debug\OOP_AracListesi.Properties.Resources.resources
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\OOP\OOP_AracListesi\OOP_AracListesi\obj\Debug\OOP_AracListesi.csproj.GenerateResource.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\OOP\OOP_AracListesi\OOP_AracListesi\obj\Debug\OOP_AracListesi.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\OOP\OOP_AracListesi\OOP_AracListesi\obj\Debug\OOP_AracListesi.exe
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\OOP\OOP_AracListesi\OOP_AracListesi\obj\Debug\OOP_AracListesi.pdb

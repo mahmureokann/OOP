@@ -1,0 +1,22 @@
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\06.04 YAPILACAKLAR\WFA_KiminKonusu\WFA_KiminKonusu\bin\Debug\WFA_KiminKonusu.exe.config
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\06.04 YAPILACAKLAR\WFA_KiminKonusu\WFA_KiminKonusu\bin\Debug\WFA_KiminKonusu.exe
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\06.04 YAPILACAKLAR\WFA_KiminKonusu\WFA_KiminKonusu\bin\Debug\WFA_KiminKonusu.pdb
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\06.04 YAPILACAKLAR\WFA_KiminKonusu\WFA_KiminKonusu\obj\Debug\WFA_KiminKonusu.csproj.AssemblyReference.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\06.04 YAPILACAKLAR\WFA_KiminKonusu\WFA_KiminKonusu\obj\Debug\WFA_KiminKonusu.csproj.SuggestedBindingRedirects.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\06.04 YAPILACAKLAR\WFA_KiminKonusu\WFA_KiminKonusu\obj\Debug\WFA_KiminKonusu.Form1.resources
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\06.04 YAPILACAKLAR\WFA_KiminKonusu\WFA_KiminKonusu\obj\Debug\WFA_KiminKonusu.Properties.Resources.resources
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\06.04 YAPILACAKLAR\WFA_KiminKonusu\WFA_KiminKonusu\obj\Debug\WFA_KiminKonusu.csproj.GenerateResource.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\06.04 YAPILACAKLAR\WFA_KiminKonusu\WFA_KiminKonusu\obj\Debug\WFA_KiminKonusu.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\06.04 YAPILACAKLAR\WFA_KiminKonusu\WFA_KiminKonusu\obj\Debug\WFA_KiminKonusu.exe
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\06.04 YAPILACAKLAR\WFA_KiminKonusu\WFA_KiminKonusu\obj\Debug\WFA_KiminKonusu.pdb
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\OOP\WFA_KiminKonusu\WFA_KiminKonusu\bin\Debug\WFA_KiminKonusu.exe.config
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\OOP\WFA_KiminKonusu\WFA_KiminKonusu\bin\Debug\WFA_KiminKonusu.exe
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\OOP\WFA_KiminKonusu\WFA_KiminKonusu\bin\Debug\WFA_KiminKonusu.pdb
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\OOP\WFA_KiminKonusu\WFA_KiminKonusu\obj\Debug\WFA_KiminKonusu.csproj.AssemblyReference.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\OOP\WFA_KiminKonusu\WFA_KiminKonusu\obj\Debug\WFA_KiminKonusu.csproj.SuggestedBindingRedirects.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\OOP\WFA_KiminKonusu\WFA_KiminKonusu\obj\Debug\WFA_KiminKonusu.Form1.resources
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\OOP\WFA_KiminKonusu\WFA_KiminKonusu\obj\Debug\WFA_KiminKonusu.Properties.Resources.resources
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\OOP\WFA_KiminKonusu\WFA_KiminKonusu\obj\Debug\WFA_KiminKonusu.csproj.GenerateResource.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\OOP\WFA_KiminKonusu\WFA_KiminKonusu\obj\Debug\WFA_KiminKonusu.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\OOP\WFA_KiminKonusu\WFA_KiminKonusu\obj\Debug\WFA_KiminKonusu.exe
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\OOP\WFA_KiminKonusu\WFA_KiminKonusu\obj\Debug\WFA_KiminKonusu.pdb

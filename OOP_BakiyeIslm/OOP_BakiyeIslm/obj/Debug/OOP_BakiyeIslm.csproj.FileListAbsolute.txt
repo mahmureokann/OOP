@@ -1,0 +1,11 @@
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\SQL\Tarihine göre dersler\OOP_BakiyeIslm\OOP_BakiyeIslm\bin\Debug\OOP_BakiyeIslm.exe.config
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\SQL\Tarihine göre dersler\OOP_BakiyeIslm\OOP_BakiyeIslm\bin\Debug\OOP_BakiyeIslm.exe
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\SQL\Tarihine göre dersler\OOP_BakiyeIslm\OOP_BakiyeIslm\bin\Debug\OOP_BakiyeIslm.pdb
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\SQL\Tarihine göre dersler\OOP_BakiyeIslm\OOP_BakiyeIslm\obj\Debug\OOP_BakiyeIslm.csproj.AssemblyReference.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\SQL\Tarihine göre dersler\OOP_BakiyeIslm\OOP_BakiyeIslm\obj\Debug\OOP_BakiyeIslm.csproj.SuggestedBindingRedirects.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\SQL\Tarihine göre dersler\OOP_BakiyeIslm\OOP_BakiyeIslm\obj\Debug\OOP_BakiyeIslm.Form1.resources
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\SQL\Tarihine göre dersler\OOP_BakiyeIslm\OOP_BakiyeIslm\obj\Debug\OOP_BakiyeIslm.Properties.Resources.resources
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\SQL\Tarihine göre dersler\OOP_BakiyeIslm\OOP_BakiyeIslm\obj\Debug\OOP_BakiyeIslm.csproj.GenerateResource.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\SQL\Tarihine göre dersler\OOP_BakiyeIslm\OOP_BakiyeIslm\obj\Debug\OOP_BakiyeIslm.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\SQL\Tarihine göre dersler\OOP_BakiyeIslm\OOP_BakiyeIslm\obj\Debug\OOP_BakiyeIslm.exe
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\SQL\Tarihine göre dersler\OOP_BakiyeIslm\OOP_BakiyeIslm\obj\Debug\OOP_BakiyeIslm.pdb
